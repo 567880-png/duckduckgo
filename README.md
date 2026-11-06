@@ -1,5 +1,5 @@
 # duckduckgo
 nana
 duckduck.go
-duckduckgo.com
-Google.com
+[duckduckgo.com](url)
+[Google.com](url)
